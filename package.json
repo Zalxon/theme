@@ -1,0 +1,30 @@
+{
+  "name": "@zalxon/theme",
+  "version": "8.0.0",
+  "description": "theme for styling our websites",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write 'index.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalxon/theme.git"
+  },
+  "keywords": [
+    "theme-ui",
+    "zalxon",
+    "climate",
+    "carbon"
+  ],
+  "author": "freeman-lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zalxon/theme/issues"
+  },
+  "prettier": "@zalxon/prettier",
+  "devDependencies": {
+    "@zalxon/prettier": "^1.0.1",
+    "prettier": "2.3.0"
+  },
+  "homepage": "https://github.com/zalxon/theme#readme"
+}
